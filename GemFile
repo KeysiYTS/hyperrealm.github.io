@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.2.2"
+gem "minima", "~> 2.5"  # Inclua este gem se estiver usando o tema Minima
+
+# Dependências sugeridas
+gem "csv"
+gem "base64"
+gem "bigdecimal"
