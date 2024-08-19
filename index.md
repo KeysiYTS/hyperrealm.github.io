@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Bem-vindo ao Hyperrealm"
+title: "Bem-vindo a Hyper Realm"
 ---
 
-# Bem-vindo ao Hyperrealm
+# Bem-vindo a Hyper Realm
 
-Este blog é dedicado a explorar os melhores produtos de tecnologia de consumo. Fique atento às análises, dicas e novidades que publicaremos regularmente!
+Um blog é dedicado a explorar os melhores produtos de tecnologia de consumo. Fique atento às análises, dicas e novidades que publicaremos regularmente!
